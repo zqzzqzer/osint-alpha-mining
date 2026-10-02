@@ -1,0 +1,90 @@
+{
+  "case_id": "SYNTHETIC-CLINICAL-001",
+  "as_of": "2026-10-01T10:00:00+08:00",
+  "evidence": [
+    {
+      "id": "E1",
+      "kind": "source",
+      "locator": "synthetic://comment/001",
+      "summary": "虚构练习：发言者自称家属正在参加 X 药三期，感觉改善。没有实际来源，不能作为研究发现。",
+      "available_at": "2026-10-01T09:00:00+08:00"
+    }
+  ],
+  "assessments": {
+    "credibility": {
+      "source_reliability": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "firsthand": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "domain_fit": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "verifiability": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "corroboration": {
+        "value": 1,
+        "reason": "仅有虚构原主张，尚无交叉核验。",
+        "evidence_refs": [
+          "E1"
+        ]
+      },
+      "incentive_transparency": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      }
+    },
+    "opportunity": {
+      "novelty": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "expectation_gap": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "materiality": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "timeliness": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      },
+      "scarcity": {
+        "value": null,
+        "reason": "虚构练习：缺少核验材料，保持未知。",
+        "evidence_refs": []
+      }
+    }
+  },
+  "gates": {
+    "fact_status": "unverified",
+    "mapping_verified": null,
+    "counterevidence_checked": null,
+    "material_contradiction_unresolved": null,
+    "expectation_baseline_established": null
+  },
+  "gate_evidence": {
+    "fact_status": [],
+    "material_contradiction_unresolved": [],
+    "mapping_verified": [],
+    "expectation_baseline_established": [],
+    "counterevidence_checked": []
+  }
+}

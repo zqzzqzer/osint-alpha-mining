@@ -1,0 +1,4 @@
+interface:
+  display_name: "公开信息 Alpha 研究标准"
+  short_description: "按十五项判断核验产业线索，建立证据卡、预期差分析和研究评分"
+  default_prompt: "使用 $osint-alpha-mining，核验我提供的产业线索，按十五项判断建立证据卡，分析预期差并给出有依据的研究评分。"
